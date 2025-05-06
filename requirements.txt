@@ -1,0 +1,17 @@
+transformers>=4.38.0
+accelerate
+bitsandbytes
+pandas
+gTTS
+Pillow
+datasets
+ipywidgets
+trl
+peft
+sentencepiece
+einops
+torch>=2.0.0
+torchvision
+torchaudio
+streamlit
+huggingface_hub
