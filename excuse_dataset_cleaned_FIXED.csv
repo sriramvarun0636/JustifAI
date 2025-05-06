@@ -1,0 +1,558 @@
+scenario,urgency,believability,excuse
+family,high,high,"Hospitalized due to dehydration, missed final exam."
+family,high,high,Car accident while heading to family.
+family,high,high,Emergency surgery scheduled on exam day.
+family,high,high,"I really needed to take some time for myself, and I wasn’t sure how to communicate that."
+family,high,high,"I wasn’t sure how to ask, but I really needed some space to clear my head."
+family,high,high,"I didn’t think it would be a problem, but I needed more time than I expected."
+family,high,high,"I needed a break to reset, and I should’ve communicated that more clearly."
+family,high,high,"I just needed to step away for a while, and I should’ve explained it better."
+family,high,high,"I thought a short break would be enough, but I ended up needing more time to myself."
+family,high,high,"I wasn’t sure how to express it, but I really needed some time alone to gather my thoughts."
+family,high,high,"I needed some space to recharge, but I didn’t think it would be a big deal."
+family,high,high,"I should’ve been more upfront about needing some time alone, I’m sorry."
+family,high,high,"I didn’t expect to be away for so long, but I really needed the time."
+family,high,high,Serious illness prevented me from attending.
+family,high,high,"Fire drill disrupted everything, exam postponed."
+family,high,low,Felt lazy and skipped family altogether.
+family,high,low,"Mixed up dates, came a day late."
+family,high,low,"I didn’t think it would be an issue, but I needed a break."
+family,high,low,"I didn’t mean to cause any problems, but I just needed some space."
+family,high,low,"I thought it would be fine to take some time to myself, but it ended up being more."
+family,high,low,"I wasn’t sure how to explain it, but I just needed a little break."
+family,high,low,"I thought a brief breather would help, but I needed more time."
+family,high,low,"I didn’t think it would be a big deal, but I ended up needing some alone time."
+family,high,low,"I thought it wouldn’t cause any issues, but I needed some space to recharge."
+family,high,low,"I just needed some time alone, but I didn’t explain it well."
+family,high,low,"I didn’t think I’d be gone for long, but I just needed to step away for a while."
+family,high,low,"I wasn’t sure how to ask, but I ended up needing more time than I expected."
+family,high,low,Thought the assignment was optional.
+family,high,low,Totally forgot today was finals day.
+family,high,low,Decided not to attend because it was too hard.
+family,high,medium,Last-minute power outage ruined prep.
+family,high,medium,Severe stomach ache before exam.
+family,high,medium,"I wasn’t sure how to say it, but I really needed some time alone."
+family,high,medium,"I thought a short break would help, but I ended up needing more time."
+family,high,medium,"I didn’t expect to be gone that long, but I really needed a breather."
+family,high,medium,"I needed to take a moment for myself, but I didn’t think it would cause any trouble."
+family,high,medium,"I thought I’d take a brief break, but I needed more time to recharge."
+family,high,medium,"I didn’t mean to be gone for so long, but I really needed some space."
+family,high,medium,"I thought I’d be back quickly, but I ended up needing more time."
+family,high,medium,"I wasn’t sure how to explain it, but I really needed some time alone to reset."
+family,high,medium,"I thought it wouldn’t be a big deal, but I needed more time than I planned."
+family,high,medium,I just needed to clear my head and didn’t expect it to take so long.
+family,high,medium,Family emergency just before family.
+family,high,medium,"Transportation strike, couldn't reach family."
+family,high,medium,Laptop crashed while submitting assignment.
+family,low,high,"Had a mild allergic reaction, needed rest."
+family,low,high,"Power cut at home, couldn't attend gathering."
+family,low,high,"School bag got stolen, needed to sort that out."
+family,low,high,I had a minor headache and needed to lie down.
+family,low,high,I was feeling anxious and couldn’t join the gathering.
+family,low,high,I had a small fever and didn’t want to risk it.
+family,low,high,I was emotionally overwhelmed and needed space.
+family,low,high,I wasn’t feeling well after lunch and rested.
+family,low,high,I had to attend an important online class.
+family,low,high,I was too tired from staying up late studying.
+family,low,high,I had mild food poisoning and stayed in bed.
+family,low,high,I needed time alone to recharge mentally.
+family,low,high,I had a tension headache and took a nap instead.
+family,low,high,"Internet outage, couldn't join online gathering."
+family,low,high,"Bus broke down mid-route, couldn't make it."
+family,low,low,"Had a minor headache, skipped gathering casually."
+family,low,low,"Slept through the morning lecture, my bad."
+family,low,low,"Missed family bus, figured I'd take a day off."
+family,low,low,"I didn’t feel like attending the gathering, so I said I had homework."
+family,low,low,I pretended I was tired just to avoid small talk.
+family,low,low,I faked a stomach ache to skip helping with chores.
+family,low,low,Told them I had a Zoom class just to stay in my room.
+family,low,low,I said I lost my phone so I wouldn't have to answer calls.
+family,low,low,Claimed I was fasting to avoid eating leftovers.
+family,low,low,I told them I had a sore throat to skip a family video call.
+family,low,low,Said my Wi-Fi was down to avoid a long chat.
+family,low,low,I pretended to be asleep when they called me.
+family,low,low,Said I was busy with an online course I never signed up for.
+family,low,low,"Just didn't feel up to it today, sorry!"
+family,low,low,"Forgot about today's assignment, will submit later."
+family,low,medium,"Felt a little under the weather, stayed home."
+family,low,medium,Family guests came over unexpectedly.
+family,low,medium,"Library card issue, couldn't attend group study."
+family,low,medium,I said I had to study so I could skip doing dishes.
+family,low,medium,Told them I had a group call just to stay in my room.
+family,low,medium,Pretended to be on a call when asked to help clean.
+family,low,medium,I claimed I had to complete an assignment that wasn’t real.
+family,low,medium,I said I had an exam so I wouldn’t have to go shopping.
+family,low,medium,I told them I had a backache to skip carrying groceries.
+family,low,medium,Said I was on a tight deadline for a fake project.
+family,low,medium,I told them my professor scheduled a surprise quiz.
+family,low,medium,Faked a network issue to get off a long family call.
+family,low,medium,"Said I had to help a friend, just to get out of a family errand."
+family,low,medium,"Had a dentist appointment, missed gathering."
+family,low,medium,"Got stuck in traffic, couldn't make it to family."
+family,medium,high,Had a doctor's appointment scheduled suddenly.
+family,medium,high,"Was involved in a minor accident, needed first aid."
+family,medium,high,"I didn’t want to disrupt anything, but I needed some space."
+family,medium,high,"I wasn’t sure how to bring it up, but I needed a break."
+family,medium,high,"I didn’t think it would affect anyone, but I ended up needing some time."
+family,medium,high,"I wasn’t sure how to say it, but I needed to take a moment for myself."
+family,medium,high,"I didn’t think it would be an issue, but I ended up needing some alone time."
+family,medium,high,"I thought it would be okay, but I just needed a little breather."
+family,medium,high,"I didn’t expect it to cause any problems, but I needed some space."
+family,medium,high,"I needed some time alone to clear my head, but I didn’t ask for it properly."
+family,medium,high,"I thought it would be fine to step away for a bit, but I ended up needing more time."
+family,medium,high,"I wasn’t sure how to ask, but I needed a break to reset."
+family,medium,high,"Pet got sick, had to take care of it."
+family,medium,high,"Severe migraine, couldn't focus on gathering."
+family,medium,high,Assisted a neighbor in an emergency.
+family,medium,low,Accidentally overslept before the exam.
+family,medium,low,"Left my homework at home, didn't attend gathering."
+family,medium,low,Confused the gathering timing and missed it.
+family,medium,low,Missed the quiz because I forgot the date.
+family,medium,low,"I said the power went out, but it didn’t."
+family,medium,low,Told them I was in class when I was actually napping.
+family,medium,low,I pretended my phone broke to ignore calls.
+family,medium,low,I faked a deadline to avoid doing chores.
+family,medium,low,I said my internet was down to avoid a family Zoom.
+family,medium,low,"Claimed I was on a call, but I was just scrolling."
+family,medium,low,I acted like I had a cold to stay in my room.
+family,medium,low,Told them I was working when I was binge-watching.
+family,medium,low,Faked a presentation to skip an event.
+family,medium,low,Said I had an interview that never existed.
+family,medium,medium,"Missed a connecting bus, got delayed."
+family,medium,medium,I just needed a little break and didn’t know how to explain it.
+family,medium,medium,"I thought I could handle things on my own, but I needed some time."
+family,medium,medium,"I wasn’t sure how to say it, but I needed a bit of space."
+family,medium,medium,"I didn’t think it would be a big deal, but I ended up needing some time."
+family,medium,medium,"I thought I’d take a quick break, but it turned into more time than expected."
+family,medium,medium,I just needed to step away for a bit and didn't explain it well.
+family,medium,medium,"I needed some quiet time to recharge, but I didn’t say so clearly."
+family,medium,medium,"I thought it would be fine, but I ended up needing some time alone."
+family,medium,medium,"I didn’t think it would be a problem, but I just needed some downtime."
+family,medium,medium,"I wasn’t sure how to ask for time alone, so I just took it."
+family,medium,medium,Small family emergency kept me from attending.
+family,medium,medium,Had a minor sprain on my way to family.
+family,medium,medium,Overslept after pulling an all-nighter.
+family,medium,medium,"Laptop issues, couldn't submit the project."
+school,high,high,Emergency surgery scheduled on exam day.
+school,high,high,Serious illness prevented me from attending.
+school,high,high,"Fire drill disrupted everything, exam postponed."
+school,high,high,"Hospitalized due to dehydration, missed final exam."
+school,high,high,Car accident while heading to school.
+school,high,low,"Mixed up dates, came a day late."
+school,high,low,Thought the assignment was optional.
+school,high,low,Decided not to attend because it was too hard.
+school,high,low,Totally forgot today was finals day.
+school,high,low,Felt lazy and skipped school altogether.
+school,high,medium,Laptop crashed while submitting assignment.
+school,high,medium,Last-minute power outage ruined prep.
+school,high,medium,"Transportation strike, couldn't reach school."
+school,high,medium,Severe stomach ache before exam.
+school,high,medium,Family emergency just before school.
+school,low,high,"Power cut at home, couldn't attend class."
+school,low,high,I had a dental emergency and couldn't concentrate.
+school,low,high,My little brother fell sick and I had to babysit him.
+school,low,high,We had a sudden family ritual and I couldn’t skip it.
+school,low,high,My internet was out all evening during submission.
+school,low,high,The power went out and I couldn’t charge my device.
+school,low,high,I started feeling sick right when I sat to finish it.
+school,low,high,I had to go buy medicine for my grandparents.
+school,low,high,The submission portal was down when I tried uploading.
+school,low,high,My laptop crashed after hours of work — lost everything.
+school,low,high,There was a family emergency I had to attend to.
+school,low,high,"Bus broke down mid-route, couldn't make it."
+school,low,high,"Had a mild allergic reaction, needed rest."
+school,low,high,"Internet outage, couldn't join online class."
+school,low,high,"School bag got stolen, needed to sort that out."
+school,low,low,"Just didn't feel up to it today, sorry!"
+school,low,low,"Slept through the morning lecture, my bad."
+school,low,low,"Forgot about today's assignment, will submit later."
+school,low,low,"I thought the assignment was just practice, not graded."
+school,low,low,I was too lazy to finish it last night — sorry.
+school,low,low,I forgot my notebook at a friend’s place.
+school,low,low,"I started it, but then Netflix happened."
+school,low,low,I completely zoned out when you explained the due date.
+school,low,low,I left my homework in the other backpack.
+school,low,low,I wasn’t really in the mood to study last night.
+school,low,low,I thought the submission was next week.
+school,low,low,I was helping a friend with their homework and forgot mine.
+school,low,low,"Honestly, I just didn’t feel like doing it."
+school,low,low,"Missed school bus, figured I'd take a day off."
+school,low,low,"Had a minor headache, skipped class casually."
+school,low,medium,"Had a dentist appointment, missed class."
+school,low,medium,I misunderstood the instructions and did the wrong assignment.
+school,low,medium,I wrote it but forgot to upload it.
+school,low,medium,I saved it on a pen drive I left at home.
+school,low,medium,"I submitted it, but the file was blank by accident."
+school,low,medium,My group partner didn’t respond and I panicked.
+school,low,medium,I had a late sports practice and lost time to study.
+school,low,medium,I was trying to fix a formatting issue and missed the deadline.
+school,low,medium,I had some trouble finding the textbook.
+school,low,medium,I worked on it but couldn’t finish in time.
+school,low,medium,I uploaded it to the wrong portal.
+school,low,medium,Family guests came over unexpectedly.
+school,low,medium,"Library card issue, couldn't attend group study."
+school,low,medium,"Got stuck in traffic, couldn't make it to school."
+school,low,medium,"Felt a little under the weather, stayed home."
+school,medium,high,Assisted a neighbor in an emergency.
+school,medium,high,Had a doctor's appointment scheduled suddenly.
+school,medium,high,"Was involved in a minor accident, needed first aid."
+school,medium,high,"Severe migraine, couldn't focus on class."
+school,medium,high,A family member needed immediate help with a medical issue.
+school,medium,high,I had to take my younger sibling to a doctor’s appointment.
+school,medium,high,There was a water pipeline burst at home — total chaos.
+school,medium,high,My parent fell sick and I had to take over responsibilities.
+school,medium,high,I had a sudden allergy flare-up and needed rest.
+school,medium,high,A relative came in from out of town and needed support.
+school,medium,high,My glasses broke and I couldn’t read or type well.
+school,medium,high,I had to help during a power outage that affected my locality.
+school,medium,high,I was locked out of my home and couldn’t retrieve my laptop.
+school,medium,high,Had to attend an unexpected family prayer.
+school,medium,high,"Pet got sick, had to take care of it."
+school,medium,low,Accidentally overslept before the exam.
+school,medium,low,"Left my homework at home, didn't attend class."
+school,medium,low,Got distracted binge-watching a series.
+school,medium,low,I mixed up my subjects and studied for the wrong test.
+school,medium,low,I forgot to print my homework.
+school,medium,low,"My alarm rang, but I kept snoozing and overslept."
+school,medium,low,I thought the class was canceled today.
+school,medium,low,I joined the wrong Google Meet link.
+school,medium,low,"I saved my notes on my phone, which ran out of battery."
+school,medium,low,"My group didn’t coordinate, and everything collapsed."
+school,medium,low,I lost the reference book I needed.
+school,medium,low,I uploaded the wrong PDF without checking.
+school,medium,low,I underestimated the time the quiz would take.
+school,medium,low,Missed the quiz because I forgot the date.
+school,medium,low,Confused the class timing and missed it.
+school,medium,medium,Small family emergency kept me from attending.
+school,medium,medium,Had a minor sprain on my way to school.
+school,medium,medium,"Missed a connecting bus, got delayed."
+school,medium,medium,I wasn’t feeling well and couldn’t finish the homework in time.
+school,medium,medium,My home Wi-Fi stopped working during the submission window.
+school,medium,medium,I confused the submission time and missed it by 10 minutes.
+school,medium,medium,There was a surprise family visit that took up my evening.
+school,medium,medium,I was feeling overwhelmed with multiple deadlines.
+school,medium,medium,Had to help my sibling with their school project last-minute.
+school,medium,medium,The power went out while I was saving my work.
+school,medium,medium,The online portal crashed just when I tried to upload.
+school,medium,medium,I had a minor cold and couldn’t focus properly.
+school,medium,medium,I started on time but got stuck on a part and didn’t finish.
+school,medium,medium,Overslept after pulling an all-nighter.
+school,medium,medium,"Laptop issues, couldn't submit the project."
+social,high,high,Car accident while heading to social.
+social,high,high,Serious illness prevented me from attending.
+social,high,high,"Fire drill disrupted everything, exam postponed."
+school,high,high,A serious family emergency forced me to leave town.
+school,high,high,I was hospitalized for a sudden health issue.
+school,high,high,A natural disaster affected our area and disrupted everything.
+school,high,high,My sibling was in an accident — I had to be there.
+school,high,high,I had to attend a close relative’s funeral.
+school,high,high,A medical emergency left me completely unavailable.
+school,high,high,There was a major accident near my home that affected power and access.
+school,high,high,My parents had a health scare and I had to help at the hospital.
+school,high,high,We had to evacuate our home due to a gas leak.
+school,high,high,An urgent family matter demanded my full attention.
+social,high,high,"Hospitalized due to dehydration, missed final exam."
+social,high,high,Emergency surgery scheduled on exam day.
+social,high,low,Thought the assignment was optional.
+social,high,low,Totally forgot today was finals day.
+school,high,low,I fell asleep during class and missed everything important.
+school,high,low,I completely panicked and submitted a blank form.
+school,high,low,I thought the exam was postponed — no idea why.
+school,high,low,I accidentally wrote answers on the wrong answer sheet.
+school,high,low,My pet ran off with my notes and chewed them up.
+school,high,low,I was too nervous and skipped the test without thinking.
+school,high,low,I lost my bag and thought everything was over.
+school,high,low,I tried to submit but clicked the wrong link and never checked.
+school,high,low,I overslept even with three alarms — don’t know how.
+school,high,low,My brain just blanked out completely during the test.
+social,high,low,Decided not to attend because it was too hard.
+social,high,low,Felt lazy and skipped social altogether.
+social,high,low,"Mixed up dates, came a day late."
+social,high,medium,Last-minute power outage ruined prep.
+social,high,medium,"Transportation strike, couldn't reach social."
+school,high,medium,I had a migraine during the test and couldn’t think straight.
+school,high,medium,My computer froze during the online exam.
+school,high,medium,I had to assist my parents with a last-minute emergency.
+school,high,medium,My house had a short circuit — total blackout.
+school,high,medium,I suffered a minor injury and couldn’t attend class.
+school,high,medium,My internet disconnected right before submission.
+school,high,medium,I was feeling extremely anxious and couldn’t concentrate.
+school,high,medium,Had to attend to a sick pet and couldn’t focus on studies.
+school,high,medium,We had to urgently shift houses due to a rental issue.
+school,high,medium,A close friend was in crisis and needed immediate help.
+social,high,low,I just felt like canceling at the last minute and didn’t explain why.
+social,high,low,"I wasn’t feeling it, so I just bailed without saying anything."
+social,high,low,"I didn’t think it would be a big deal, but I ended up just needing to leave."
+social,high,low,"I thought I’d be fine, but I ended up needing to step away at the last minute."
+social,high,low,"I didn’t feel like it anymore, so I just skipped out."
+social,high,low,I wasn’t feeling social at all and didn’t bother explaining.
+social,high,low,"I thought it would be okay, but I bailed without a word."
+social,high,low,"I wasn’t sure how to say it, but I just needed to leave."
+social,high,low,"I didn’t feel up to it anymore, so I just left without a good excuse."
+social,high,low,"I thought I could manage, but I bailed last minute."
+social,high,medium,Severe stomach ache before exam.
+social,high,medium,I wasn’t feeling well and didn’t want to make it worse by staying.
+social,high,medium,I had a lot going on in my head and needed to step away to clear my thoughts.
+social,high,medium,"I didn’t mean to cancel, but I just needed to take a moment to reset."
+social,high,medium,"I thought I could push through, but I ended up needing some space urgently."
+social,high,medium,"I just wasn’t feeling it anymore, and I didn’t want to drag the energy down."
+social,high,medium,"I wasn’t sure how to express it, but I needed a break from everything."
+social,high,medium,"I thought I’d be fine, but I ended up needing to step back and recharge."
+social,high,medium,I was feeling overwhelmed and couldn’t stay any longer.
+social,high,medium,"I wasn’t in the right headspace to keep up, and I needed to take a break."
+social,high,medium,I just needed a moment to reset before I could come back.
+social,high,medium,Family emergency just before social.
+social,high,medium,Laptop crashed while submitting assignment.
+social,high,high,I was feeling really overwhelmed and needed to step away immediately to clear my head.
+social,high,high,"I wasn’t feeling well and didn’t think I’d be good company, so I had to leave."
+social,high,high,I wasn’t in the right state of mind to stay and needed some space right away.
+social,high,high,"I had a lot of personal things going on, and I needed to take a break to handle them."
+social,high,high,I was feeling mentally drained and needed to take some time alone to recharge.
+social,high,high,"I didn’t want to bring any negative energy, so I stepped away to reset."
+social,high,high,I was really struggling mentally and needed some urgent time to myself.
+social,high,high,I wasn’t feeling emotionally stable and needed to step away to process things.
+social,high,high,I thought it would be better for me to leave and reset instead of forcing myself to stay.
+social,high,high,"I didn’t feel like I could be present, so I took a step back to gather myself."
+social,low,high,"Power cut at home, couldn't attend gathering."
+social,low,high,"Bus broke down mid-route, couldn't make it."
+social,low,high,"Had a mild allergic reaction, needed rest."
+social,low,high,I wasn’t feeling well and didn’t know how to explain it to you.
+social,low,high,"I thought I could manage, but I ended up needing some space to clear my head."
+social,low,high,"I didn’t feel up to being social today, but I didn’t want to admit it."
+social,low,high,"I thought it would be fine, but I just needed to take some time away."
+social,low,high,"I needed to get some rest, but I didn’t communicate that well."
+social,low,high,I wasn’t feeling like myself and needed to be alone for a bit.
+social,low,high,"I thought a break would help, but I ended up needing more time than I thought."
+social,low,high,I wasn’t in the best mood and didn’t think it would help to stay around.
+social,low,high,"I needed a mental reset, and I didn’t think it would affect anyone."
+social,low,high,"I didn’t think I could be good company, so I took some time to myself."
+social,low,high,"School bag got stolen, needed to sort that out."
+social,low,high,"Internet outage, couldn't join online gathering."
+social,low,low,"Had a minor headache, skipped gathering casually."
+social,low,low,"Just didn't feel up to it today, sorry!"
+social,low,low,I just needed some time for myself and didn’t think it would be a big deal.
+social,low,low,"I thought I could handle everything, but I ended up needing some alone time."
+social,low,low,"I wasn’t feeling up to it, but I didn’t want to admit it."
+social,low,low,"I was hoping to take a break, but I didn’t want to say so."
+social,low,low,"I thought I could push through, but I ended up needing some space."
+social,low,low,"I wasn’t feeling social, but I didn’t know how to explain it."
+social,low,low,"I didn’t think it would matter, but I needed to be by myself for a bit."
+social,low,low,"I thought I could manage, but I ended up needing more downtime."
+social,low,low,"I just needed some rest, but I didn’t communicate that well."
+social,low,low,"I thought I’d be fine, but I needed to take a step back."
+social,low,low,"Forgot about today's assignment, will submit later."
+social,low,low,"Slept through the morning lecture, my bad."
+social,low,low,"Missed social bus, figured I'd take a day off."
+social,low,medium,"Had a dentist appointment, missed gathering."
+social,low,medium,"Felt a little under the weather, stayed home."
+social,low,medium,I didn’t realize how much I needed to recharge until I was already distancing myself.
+social,low,medium,I was feeling a little off and didn’t know how to explain it.
+social,low,medium,"I just needed a breather, but I didn’t think it would be an issue."
+social,low,medium,"I wasn’t sure how to ask for space, so I just took it."
+social,low,medium,"I thought I could manage, but I ended up needing some time to myself."
+social,low,medium,I needed some downtime but didn’t want to seem rude.
+social,low,medium,I wasn’t feeling it and should’ve communicated that better.
+social,low,medium,"I thought I could power through, but I really needed a moment."
+social,low,medium,"I didn’t think it would be a problem, but I ended up needing time alone."
+social,low,medium,"I thought I’d take a quick break, but it turned into more time than I planned."
+social,low,medium,Family guests came over unexpectedly.
+social,low,medium,"Library card issue, couldn't attend group study."
+social,low,medium,"Got stuck in traffic, couldn't make it to social."
+social,medium,high,Assisted a neighbor in an emergency.
+social,medium,high,"Pet got sick, had to take care of it."
+social,medium,high,"Was involved in a minor accident, needed first aid."
+social,medium,high,"Severe migraine, couldn't focus on gathering."
+social,medium,high,"I just needed some time to myself to clear my head, and I didn’t think it would be an issue."
+social,medium,high,"I wasn’t feeling well, and I thought I could power through, but I couldn’t make it."
+social,medium,high,"I thought I’d be fine, but I ended up needing a breather to get back on track."
+social,medium,high,"I wasn’t in the best mood, and I thought I should take a break rather than bring the vibe down."
+social,medium,high,"I had a lot on my mind, and I needed some time to process it before being social."
+social,medium,high,"I thought I’d push through, but I ended up needing some time alone to reset."
+social,medium,high,"I wasn’t feeling my best, and I didn’t want to be a downer."
+social,medium,high,I had a lot on my plate today and just needed some quiet time.
+social,medium,high,I wasn’t feeling like myself and thought I should take some time for self-care.
+social,medium,high,I just wasn’t in a good place mentally and needed a bit of space.
+social,medium,high,Had a doctor's appointment scheduled suddenly.
+social,medium,low,Accidentally overslept before the exam.
+social,medium,low,"Left my homework at home, didn't attend gathering."
+social,medium,low,Got distracted binge-watching a series.
+social,medium,low,Confused the gathering timing and missed it.
+social,medium,low,I was caught up in something else and just needed to step away.
+social,medium,low,"I was planning to come, but I ended up not feeling like it."
+social,medium,low,I got distracted and didn’t feel like socializing anymore.
+social,medium,low,"I didn’t think it would be a problem, but I just didn’t feel like joining."
+social,medium,low,"I was just in the mood to be alone, but I didn’t say anything."
+social,medium,low,"I thought I could push through, but I wasn’t feeling it."
+social,medium,low,I was busy with other things and couldn’t focus on socializing.
+social,medium,low,"I wasn’t feeling the vibe, so I ended up taking a step back."
+social,medium,low,I got sidetracked and didn’t feel like coming after all.
+social,medium,medium,Overslept after pulling an all-nighter.
+social,medium,medium,Had a minor sprain on my way to social.
+social,medium,medium,Small family emergency kept me from attending.
+social,medium,medium,"I thought I could make it, but I just wasn’t in the mood to hang out."
+social,medium,medium,"I wasn’t feeling up to it, but I didn’t want to let you down."
+social,medium,medium,"I thought I could make it work, but I ended up needing time to myself."
+social,medium,medium,"I just wasn’t feeling it, and I should’ve said something sooner."
+social,medium,medium,"I wasn’t sure how to explain it, but I just needed some time alone."
+social,medium,medium,I got caught up in my own head and couldn’t join after all.
+social,medium,medium,"I wasn’t feeling social, but I didn’t want to disappoint anyone."
+social,medium,medium,"I thought I could handle it, but I needed some time to reset."
+social,medium,medium,"I wasn’t in the right headspace to hang out, but I should’ve communicated that."
+social,medium,medium,"I thought I’d feel better about it, but I just wasn’t in the mood to engage."
+social,medium,medium,"Missed a connecting bus, got delayed."
+social,medium,medium,"Laptop issues, couldn't submit the project."
+work,high,high,Emergency surgery scheduled on exam day.
+work,high,high,Car accident while heading to work.
+work,high,high,Serious illness prevented me from attending.
+work,high,high,"Fire drill disrupted everything, exam postponed."
+work,high,high,A close family member had a sudden medical emergency.
+work,high,high,I was involved in a minor road accident on my way to work.
+work,high,high,The hospital called about a relative’s emergency admission.
+work,high,high,A fire broke out in my apartment complex — I had to evacuate.
+work,high,high,Police activity near my home forced a full lockdown.
+work,high,high,I had to attend to a serious mental health crisis for someone close.
+work,high,high,My spouse was injured and I had to take them to the ER.
+work,high,high,A major system crash took down all my local files right before submission.
+work,high,high,I had to take charge of an urgent situation involving my child’s school.
+work,high,high,My home was burglarized — I had to work with authorities all day.
+work,high,high,"Hospitalized due to dehydration, missed final exam."
+work,high,low,Thought the assignment was optional.
+work,high,low,I was kidnapped by an overly aggressive sales team from a rival firm.
+work,high,low,"An AI virus took over my work laptop - like, full Skynet style."
+work,high,low,I blacked out and woke up in a conference in another city.
+work,high,low,I had to defuse a family crisis involving a parrot and a microwave.
+work,high,low,A hacker held my files ransom demanding pizza coupons.
+work,high,low,My GPS led me to the wrong office... in a different state.
+work,high,low,I was abducted by inspiration and accidentally wrote a novel instead.
+work,high,low,My smart fridge locked me out of the kitchen until I finished meditating.
+work,high,low,The neighbor’s Wi-Fi interfered with mine and caused chaos.
+work,high,low,I got stuck in an elevator with a mime — oddly silent but stressful.
+work,high,low,A pigeon flew into my room and refused to leave.
+work,high,low,I mistook the deadline for a different project completely.
+work,high,low,I was trying to multitask meetings and forgot to attend either.
+work,high,low,I spilled tea on my laptop and spent hours praying to the tech gods.
+work,high,low,The simulation glitched — I swear I was on time.
+work,high,low,I confused UTC with IST and missed the whole window.
+work,high,low,I tried logging in but the server thought I was an intruder.
+work,high,low,I was literally locked in the washroom and my phone was outside.
+work,high,low,I was involved in a spontaneous fire drill that became real.
+work,high,low,The office Wi-Fi got taken out by a squirrel - no joke.
+work,high,low,Felt lazy and skipped work altogether.
+work,high,low,"Mixed up dates, came a day late."
+work,high,low,Totally forgot today was finals day.
+work,high,low,Decided not to attend because it was too hard.
+work,high,medium,Family emergency just before work.
+work,high,medium,Laptop crashed while submitting assignment.
+work,high,medium,Last-minute power outage ruined prep.
+work,high,medium,My vehicle broke down en route to the office.
+work,high,medium,Had a plumbing disaster at home that flooded the kitchen.
+work,high,medium,Was dealing with identity fraud on one of my accounts.
+work,high,medium,Had to assist in a minor accident near my residence.
+work,high,medium,A family emergency came up and I had to prioritize it.
+work,high,medium,"My phone and backup both died, leaving me off-grid."
+work,high,medium,There was a fire drill that turned into an actual scare.
+work,high,medium,"A tree fell on the road, blocking access to my building."
+work,high,medium,Had a medical emergency and needed immediate attention.
+work,high,medium,A tech failure wiped out all my local documents.
+work,high,medium,"Transportation strike, couldn't reach work."
+work,high,medium,Severe stomach ache before exam.
+work,low,high,"Bus broke down mid-route, couldn't make it."
+work,low,high,"Power cut at home, couldn't attend meeting."
+work,low,high,"School bag got stolen, needed to sort that out."
+work,low,high,"Internet outage, couldn't join online meeting."
+work,low,high,I had a family member drop by unexpectedly and needed my attention.
+work,low,high,A minor medical issue kept me away briefly.
+work,low,high,I got caught up handling an urgent home maintenance problem.
+work,low,high,My internet dropped during the final check-in phase.
+work,low,high,"There was a gas leak scare in my building, so I had to evacuate."
+work,low,high,My child was feeling unwell and needed quick care.
+work,low,high,I had to help an elderly neighbor with an urgent issue.
+work,low,high,"I slipped and injured my wrist, making it hard to type."
+work,low,high,My computer ran into a critical update right before the meeting.
+work,low,high,The power flickered and my unsaved work got lost.
+work,low,high,"Had a mild allergic reaction, needed rest."
+work,low,low,"Missed work bus, figured I'd take a day off."
+work,low,low,"Just didn't feel up to it today, sorry!"
+work,low,low,"Forgot about today's assignment, will submit later."
+work,low,low,I spaced out and totally forgot there was a meeting today.
+work,low,low,Got stuck watching a YouTube rabbit hole and lost track of time.
+work,low,low,"Honestly, I just wasn't feeling it this morning."
+work,low,low,"I thought the task was optional, so I didn't bother."
+work,low,low,Slept in by mistake... again.
+work,low,low,I misread the calendar - turns out I imagined the deadline.
+work,low,low,Was trying to multitask and forgot the actual task.
+work,low,low,The coffee machine broke and it ruined my whole vibe.
+work,low,low,Got distracted by reorganizing my desktop files.
+work,low,low,"I was waiting for inspiration to strike, but it never did."
+work,low,low,"Had a minor headache, skipped meeting casually."
+work,low,low,"Slept through the morning lecture, my bad."
+work,low,medium,"Library card issue, couldn't attend group study."
+work,low,medium,Family guests came over unexpectedly.
+work,low,medium,"Felt a little under the weather, stayed home."
+work,low,medium,"Got stuck in traffic, couldn't make it to work."
+work,low,medium,"Had a dentist appointment, missed meeting."
+work,low,medium,I was late because I mixed up AM and PM on my alarm.
+work,low,medium,I accidentally deleted the file I was working on.
+work,low,medium,"I thought the report was due next week, not today."
+work,low,medium,I had to help a friend move and lost track of time.
+work,low,medium,Got caught in traffic even though I left early.
+work,low,medium,I misunderstood the meeting invite time.
+work,low,medium,My phone ran out of battery and I missed the notification.
+work,low,medium,I was preparing but ended up working on the wrong document.
+work,low,medium,I couldn't access the shared drive when I needed it.
+work,low,medium,I got distracted fixing another small issue and lost track.
+work,medium,high,Assisted a neighbor in an emergency.
+work,medium,high,"Severe migraine, couldn't focus on meeting."
+work,medium,high,Had a doctor's appointment scheduled suddenly.
+work,medium,high,Had to deal with an unexpected family health issue.
+work,medium,high,"My child had a fever, and I had to stay home with them."
+work,medium,high,The power grid in my area failed for several hours.
+work,medium,high,Got stuck in an official inspection at my apartment complex.
+work,medium,high,There was a fire alarm evacuation during my working hours.
+work,medium,high,My phone died while navigating a client site visit.
+work,medium,high,I was caught in a weather disruption while commuting.
+work,medium,high,I received an emergency call from a close relative.
+work,medium,high,I had to assist with a family member's urgent appointment.
+work,medium,high,There was a gas leak scare in my neighborhood.
+work,medium,high,"Was involved in a minor accident, needed first aid."
+work,medium,high,"Pet got sick, had to take care of it."
+work,medium,low,"Left my homework at home, didn't attend meeting."
+work,medium,low,Accidentally overslept before the exam.
+work,medium,low,Got distracted binge-watching a series.
+work,medium,low,Missed the quiz because I forgot the date.
+work,medium,low,Confused the meeting timing and missed it.
+work,medium,low,My cat sat on my keyboard and closed all my tabs.
+work,medium,low,I was halfway done when my system restarted out of nowhere.
+work,medium,low,I joined a different team's Zoom by mistake.
+work,medium,low,Thought I sent the email but left it in drafts.
+work,medium,low,I had the notes on a sticky note that went missing.
+work,medium,low,Tried a new app for scheduling and it completely messed up my calendar.
+work,medium,low,My smartwatch reminded me too late... thanks tech.
+work,medium,low,I misclicked and deleted my own notes.
+work,medium,low,The app I was using glitched out mid-task.
+work,medium,low,Lost time trying to debug something unrelated by accident.
+work,medium,low,"The power went out, but only in my room."
+work,medium,low,I emailed the file but forgot to attach it - classic me.
+work,medium,low,My dog unplugged my router mid-upload.
+work,medium,low,I was halfway done but spilled tea all over my notes.
+work,medium,low,I joined the wrong Zoom meeting and stayed there awkwardly.
+work,medium,low,"I thought the update was due tomorrow, not today."
+work,medium,low,I had to take my neighbor's cat to the vet - long story.
+work,medium,low,"I had the flu, or maybe it was just a bad sandwich."
+work,medium,low,The elevator was stuck for a while and I couldn't leave.
+work,medium,low,My phone alarm didn't go off because I set it for PM.
+work,medium,medium,"Missed a connecting bus, got delayed."
+work,medium,medium,Small family emergency kept me from attending.
+work,medium,medium,Overslept after pulling an all-nighter.
+work,medium,medium,Had a minor sprain on my way to work.
+work,medium,medium,Got stuck in traffic after a last-minute errand.
+work,medium,medium,"Power cut happened mid-task, and autosave failed me."
+work,medium,medium,I was multitasking and mixed up two assignments.
+work,medium,medium,A minor health issue made it hard to focus.
+work,medium,medium,My task manager app crashed and I lost all reminders.
+work,medium,medium,"Had to help a teammate urgently, and that took priority."
+work,medium,medium,Confused two deadlines and prioritized the wrong one.
+work,medium,medium,I got looped into an unexpected client call that ran long.
+work,medium,medium,Had to handle unexpected paperwork at home.
+work,medium,medium,Wi-Fi dipped right when I needed it most.
+work,medium,medium,"Laptop issues, couldn't submit the project."
