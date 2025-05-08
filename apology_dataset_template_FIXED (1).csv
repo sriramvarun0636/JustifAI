@@ -1,0 +1,379 @@
+scenario,urgency,believability,apology
+work,low,medium,"I'm really sorry, I misunderstood the schedule and I'll be more careful."
+work,low,medium,I take full responsibility - I'll double-check deadlines going forward.
+work,low,medium,My mistake entirely. I'll prioritize this better next time.
+work,low,medium,"Apologies - I let something small become a blocker, and it won't happen again."
+work,low,medium,"I'm sorry, I didn't mean to cause any delay - I'll catch up today."
+work,low,medium,"Please accept my apology for the confusion, it was unintentional."
+work,low,medium,That's on me - I'll be more organized moving forward.
+work,low,medium,I understand this impacted the flow - I'm sorry and will correct it.
+work,low,medium,My bad - I'll set stronger reminders from now on.
+work,low,high,I didn't intend to delay things - I had an emergency I couldn-'t avoid.
+work,low,high,I hope you can understand the suddenness of the situation.
+work,low,high,I appreciate your patience and promise to get back on track immediately.
+work,low,high,"This wasn't in my control, but I'll make sure it doesn't affect future work."
+work,low,high,I sincerely regret the delay and will make up for the lost time.
+work,low,high,I understand your frustration - I'll make amends quickly.
+work,low,high,Apologies for the disruption - I take full responsibility.
+work,low,high,"I'm sorry for the inconvenience, and I'm already resolving it."
+work,low,high,"Please trust that I'm doing everything to avoid a repeat.t repeat."""
+work,medium,low,"I'm sorry - I made a careless mistake, and I'll correct it."
+work,medium,low,My sincere apologies - this was due to my own oversight.
+work,medium,low,"Totally on me, and I'll make sure it doesn't happen again."
+work,medium,low,Thanks for understanding - I'll wrap this up ASAP.
+work,medium,low,I'll take extra precautions to avoid tech mix-ups in the future.
+work,medium,low,Sorry for the confusion - I misjudged the process.
+work,medium,low,I acknowledge the delay was due to a silly slip on my part.
+work,medium,low,Apologies for not double-checking - I'll improve that habit.
+work,medium,low,I underestimated the task - my apologies for the delay.
+work,medium,low,Please allow me to fix this quickly and move forward better.
+work,medium,medium,Apologies — I mismanaged my time and will improve immediately.
+work,medium,medium,I’ll ensure better coordination going forward — this was on me.
+work,medium,medium,I made an error in judgment and will fix it now.
+work,medium,medium,Thanks for your patience — I won’t let it slip again.
+work,medium,medium,I’ll adjust my process to prevent this issue in the future.
+work,medium,medium,Apologies for the confusion — I’m back on track now.
+work,medium,medium,I take full responsibility and appreciate the chance to make it right.
+work,medium,medium,"This was a hiccup, not a habit — I’ll prove that."
+work,medium,medium,I’ll do a full review so nothing slips through again.
+work,medium,medium,Apologies again — I’ve already made up for the lost time.
+work,medium,high,I’m truly sorry — this came up out of nowhere and I acted quickly.
+work,medium,high,Apologies for not informing sooner — I had to prioritize family safety.
+work,medium,high,"This was an unavoidable issue, and I’m working to recover lost time."
+work,medium,high,I hope you understand — emergencies do arise unexpectedly.
+work,medium,high,Thanks for being patient — I’ve returned and am back on it.
+work,medium,high,I appreciate your understanding — I value this responsibility deeply.
+work,medium,high,Sorry for the last-minute shift — I’ll communicate better going forward.
+work,medium,high,It won’t be a recurring issue — I’m back in control now.
+work,medium,high,I’m committed to catching up and making things right.
+work,medium,high,This was serious but is now handled — I’m back to full availability.
+work,high,low,"Okay, I messed up — there’s no excuse that makes this sound good."
+work,high,low,"I get it, this sounds wild — but I’ll fix things, starting now."
+work,high,low,This one’s on me — I’ll regain your trust with consistent work.
+work,high,low,"I goofed up bad, but I’m already back on track."
+work,high,low,I admit this wasn’t my most professional moment — apologies.
+work,high,low,"That was ridiculous, even for me. Won’t happen again."
+work,high,low,I laughed at myself — now I’ll make up for it.
+work,high,low,Thanks for bearing with my chaos. Let’s move forward.
+work,high,low,You deserve better from me — and I’ll show that going forward.
+work,high,low,No more drama — back to being reliable. Sorry again.
+work,high,medium,Apologies — things escalated quickly and I had to respond.
+work,high,medium,"I had to deal with something serious, but I’m back in action."
+work,high,medium,Please understand this was out of my control — I’ll catch up.
+work,high,medium,I regret not being able to notify earlier — thank you for your patience.
+work,high,medium,This delay wasn’t intended and I take full ownership.
+work,high,medium,I’ll work extra hours to bring everything back on track.
+work,high,medium,That was rough — but I’ve handled it and I’m focused now.
+work,high,medium,Sincere apologies for the disruption — I value this team.
+work,high,medium,I assure you this won’t be a regular occurrence.
+work,high,medium,Thanks for giving me grace — I’ll bounce back stronger.
+work,high,high,I deeply apologize — this was a real crisis and I had to step away.
+work,high,high,Please know this wasn’t taken lightly — I had no choice.
+work,high,high,"I truly regret not being available, but I had to act immediately."
+work,high,high,Thank you for understanding — I’m safe and refocusing now.
+work,high,high,"This shook me, but I’m regaining control and resuming my tasks."
+work,high,high,I appreciate your empathy during this challenging time.
+work,high,high,My sincerest apologies for the delay — I’ll catch up fully.
+work,high,high,This won’t affect my future contributions — I’m back and ready.
+work,high,high,I’m grateful for the space — and I’m returning stronger.
+work,high,high,Thanks for the support — I’ll deliver with full commitment.
+school,low,low,"Sorry, I know I should’ve put in more effort."
+school,low,low,That was careless of me — I’ll make sure it doesn’t repeat.
+school,low,low,I really have no good excuse — I’ll do better.
+school,low,low,Apologies — I took it too lightly.
+school,low,low,"I understand it was wrong to skip it, and I’ll fix that."
+school,low,low,"It’s on me, and I’ll be more responsible moving forward."
+school,low,low,Thanks for your patience — I won’t waste this chance.
+school,low,low,You’re right to be upset — I owe you better.
+school,low,low,"Next time, I’ll come prepared properly. Promise."
+school,low,low,I underestimated it — that’s on me. Sorry.
+school,low,medium,"I’m really sorry — I tried, but I messed up."
+school,low,medium,My apologies — I’ll be more careful next time.
+school,low,medium,"It was an honest mistake, and I’ll correct it now."
+school,low,medium,Please allow me to resubmit — I’ll do it right this time.
+school,low,medium,I’ll take responsibility and ensure this doesn’t repeat.
+school,low,medium,"That wasn’t my best, and I acknowledge it fully."
+school,low,medium,Thank you for understanding — I’ll improve.
+school,low,medium,"I missed the mark, but I’ll bounce back stronger."
+school,low,medium,I’ll double-check everything next time.
+school,low,medium,You deserve better preparation from me — I’ll deliver that.
+school,low,high,I’m really sorry — I did everything I could.
+school,low,high,I didn’t mean to miss it — it was just bad timing.
+school,low,high,I worked hard but something out of my control happened.
+school,low,high,I hope you can allow a short extension — it means a lot.
+school,low,high,I promise I’ll be on top of things moving forward.
+school,low,high,"I had everything ready, then it just all fell apart."
+school,low,high,That delay wasn’t intentional — just unfortunate.
+school,low,high,Thank you for your patience — I’ll fix this immediately.
+school,low,high,I’ll be more proactive in avoiding future issues.
+school,low,high,Sincerely sorry — I really didn’t want to let you down.
+school,medium,low,Apologies — I’ll get my act together.
+school,medium,low,I completely own this mistake — I’ll fix it.
+school,medium,low,I’m sorry for the mix-up — won’t happen again.
+school,medium,low,This was avoidable and I’ll ensure it doesn’t repeat.
+school,medium,low,Thanks for the feedback — I’ll apply it now.
+school,medium,low,I’ve learned from this slip and I’ll bounce back.
+school,medium,low,That was sloppy of me — I’ll correct my approach.
+school,medium,low,"I missed the mark, but I’m paying attention now."
+school,medium,low,I’ll work harder to manage deadlines better.
+school,medium,low,Thank you for pointing it out — I’ll improve from here.
+school,medium,medium,I’m sorry — it was a tough day and I tried my best.
+school,medium,medium,I know this caused a delay — I’ll be more alert next time.
+school,medium,medium,Thanks for your understanding — I’ll catch up today.
+school,medium,medium,Apologies for not communicating sooner — that’s on me.
+school,medium,medium,I should’ve reached out when I saw trouble — I’ll do that next time.
+school,medium,medium,This wasn’t up to my usual standard — I’m aware.
+school,medium,medium,I’ve corrected the issue and will avoid it going forward.
+school,medium,medium,I appreciate your flexibility — I won’t take it for granted.
+school,medium,medium,I learned a lesson from this — won’t repeat.
+school,medium,medium,I’m taking steps to better manage my load.
+school,medium,high,I’m really sorry — it was an urgent family matter.
+school,medium,high,Thank you for your patience — I’ll make up the missed work.
+school,medium,high,I promise to stay ahead so this doesn’t affect things again.
+school,medium,high,"I didn’t want to miss it, but family comes first in emergencies."
+school,medium,high,Your support means a lot — I’ll ensure timely submissions ahead.
+school,medium,high,"That situation’s resolved now, and I’m ready to refocus."
+school,medium,high,I know deadlines matter — I’ll double down moving forward.
+school,medium,high,I’m grateful you understand — thank you again.
+school,medium,high,Apologies for not giving notice — it all happened fast.
+school,medium,high,It’s handled now — I’m catching up immediately.
+school,high,low,I know this sounds bad — I’ll redeem myself.
+school,high,low,"I truly messed up, but I’ll work to fix it."
+school,high,low,That was a disaster — I’ll prove I can recover from it.
+school,high,low,I understand if you’re disappointed — I’m disappointed too.
+school,high,low,I’ve learned the hard way and I’m ready to bounce back.
+school,high,low,"I can’t undo it, but I’ll do better going forward."
+school,high,low,I let myself down — I’ll make it right.
+school,high,low,I’ll take full responsibility and improve my prep.
+school,high,low,Apologies for this failure — I’m determined to correct it.
+school,high,low,This isn’t who I want to be — thanks for giving me another shot.
+school,high,medium,I’m sorry — I didn’t want to miss anything.
+school,high,medium,I’ve caught up now and I’ll continue to stay ahead.
+school,high,medium,"That situation took a toll, but I’m back on track."
+school,high,medium,I’ll make up for the lost time with extra effort.
+school,high,medium,Please allow me to show I can still deliver well.
+school,high,medium,This was an outlier — I’ll keep things steady now.
+school,high,medium,Thank you for understanding — it won’t be wasted.
+school,high,medium,"That was real, and I’m grateful for your flexibility."
+school,high,medium,Apologies again — I’ve planned better now.
+school,high,medium,I’ll make it up with consistent improvement.
+school,high,high,This was a real emergency — thank you for understanding.
+school,high,high,I appreciate your patience — I’ve returned and I’m recovering.
+school,high,high,Please know I take academics seriously — this was just beyond me.
+school,high,high,Thanks for giving me grace in such a difficult time.
+school,high,high,I’m working hard to regain my academic momentum.
+school,high,high,I won’t let this setback define my performance.
+school,high,high,Sincerely sorry — and truly grateful for your support.
+school,high,high,I’m back and ready to make up for lost time.
+school,high,high,That experience shook me — but I’m grounded again.
+school,high,high,Thanks again — I’ll give my best moving forward.
+family,low,low,I know I should’ve just said the truth — I’m sorry.
+family,low,low,"Apologies — I just wanted some space, but I handled it wrong."
+family,low,low,I wasn’t in the mood and I made up something instead of being honest.
+family,low,low,I’m sorry for being distant — I’ll do better.
+family,low,low,"I lied to get out of it, and I regret it now."
+family,low,low,It wasn’t the right thing to do — please forgive me.
+family,low,low,I didn’t mean to upset anyone — I just needed quiet time.
+family,low,low,"Next time, I’ll communicate properly instead of avoiding."
+family,low,low,I really am sorry — I just wanted to be left alone for a bit.
+family,low,low,You didn’t deserve that — I’ll be more honest from now on.
+family,low,medium,"I’m sorry — I could’ve just said no, but I made an excuse."
+family,low,medium,I realize I made that up — I’ll take responsibility now.
+family,low,medium,"That wasn’t the truth, and I apologize sincerely."
+family,low,medium,"I didn’t want to sound rude, so I lied — I regret that."
+family,low,medium,Please forgive me — I’ll be honest next time.
+family,low,medium,I’ll make it up by helping out properly this time.
+family,low,medium,Apologies — I won’t avoid my responsibilities again.
+family,low,medium,I let laziness get the better of me — won’t repeat.
+family,low,medium,That wasn’t fair to you — I’m sorry.
+family,low,medium,I’ll step up more — thanks for your patience.
+family,low,high,I’m sorry I didn’t explain clearly — I wasn’t well.
+family,low,high,Please understand I needed some space to feel better.
+family,low,high,It wasn’t disrespect — just exhaustion.
+family,low,high,"I didn’t want to burden anyone, so I kept it to myself."
+family,low,high,Apologies for not communicating more openly.
+family,low,high,"Next time, I’ll be clearer about how I feel."
+family,low,high,I really needed that rest — thank you for understanding.
+family,low,high,I’m sorry if I seemed distant — I was just drained.
+family,low,high,I appreciate your concern — I’ll reach out next time.
+family,low,high,"You deserve honesty, and I’ll give that from now on."
+family,medium,low,I lied to get some alone time — I’m sorry.
+family,medium,low,Apologies — I should’ve been honest about my needs.
+family,medium,low,"I just wanted some rest, but I went about it the wrong way."
+family,medium,low,That wasn’t cool — I’ll make it up.
+family,medium,low,"I’ll try being upfront next time, not evasive."
+family,medium,low,Thanks for not holding it against me — I’ll do better.
+family,medium,low,I acted selfishly — I admit it.
+family,medium,low,I realize that was unfair to you — I’m sorry.
+family,medium,low,Won’t repeat that — I’ll be more truthful.
+family,medium,low,I’ll show more respect by being direct next time.
+family,medium,medium,"I wasn’t honest about needing some space, and I regret it."
+family,medium,medium,Apologies — I should’ve communicated better about my needs.
+family,medium,medium,I asked for time alone in a way that wasn’t fair to you.
+family,medium,medium,I understand how that could have hurt — I’ll work on being more transparent.
+family,medium,medium,"That wasn’t fair, and I know I should’ve been more upfront."
+family,medium,medium,I’ll handle things better next time and be more open.
+family,medium,medium,I’m sorry for being evasive about needing a break.
+family,medium,medium,I realize that wasn’t the right way to handle it — I’ll do better.
+family,medium,medium,I’ll try to be more honest next time about needing some space.
+family,medium,medium,I’ll work on being clearer about my boundaries in the future.
+family,medium,high,I didn’t handle that well — I should’ve been upfront about needing space.
+family,medium,high,I know I hurt you by not being honest — I apologize.
+family,medium,high,"I realize I wasn’t fair in how I asked for time alone, and I’m sorry."
+family,medium,high,I’ll do better next time by being more open and honest.
+family,medium,high,I regret not telling you the truth about needing some time alone.
+family,medium,high,Apologies for not communicating properly — I’ll be more open next time.
+family,medium,high,I should’ve been more straightforward — I’m really sorry for how it came across.
+family,medium,high,I recognize I went about it the wrong way — I’m sorry for misleading you.
+family,medium,high,"That wasn’t fair to you, and I’ll make sure to be more honest in the future."
+family,medium,high,"I acted thoughtlessly, and I’ll strive to communicate better moving forward."
+family,low,low,"I didn’t mean to hurt you, I just needed some time by myself."
+family,low,low,"Sorry, I should’ve been more honest about wanting space."
+family,low,low,"I wasn’t trying to be unfair, I just needed some time alone."
+family,low,low,"I should’ve just said I needed a break, I’m sorry for not being honest."
+family,low,low,I realize I went about it the wrong way — I’m sorry.
+family,low,low,"I should’ve communicated my needs more clearly, I apologize."
+family,low,low,I’m sorry for how I handled it — I just needed some alone time.
+family,low,low,I acted selfishly and should’ve been upfront with you — my apologies.
+family,low,low,"I should’ve expressed myself better, I’m sorry for being dishonest."
+family,low,low,"I realize I was unfair by not telling you the truth, I apologize."
+family,low,medium,I was selfish in how I went about it — I’m sorry for not being more honest.
+family,low,medium,"I should’ve communicated better, I wasn’t being fair."
+family,low,medium,"Apologies, I should’ve been more clear about wanting some time alone."
+family,low,medium,"I wasn’t fair in my actions, and I’ll make sure to be more honest next time."
+family,low,medium,"I shouldn’t have handled it that way, I apologize for being evasive."
+family,low,medium,"I realize I could’ve been more upfront with you, I’m sorry."
+family,low,medium,"I should’ve said I needed some space, I apologize for being unclear."
+family,low,medium,"I wasn’t thinking about how it would affect you, I apologize."
+family,low,medium,"I know that wasn’t the right way to go about it, I’ll be more honest."
+family,low,medium,Sorry for being unclear — I’ll be more direct next time.
+family,low,high,I wasn’t fair to you by being dishonest about needing time alone.
+family,low,high,"Apologies for how I handled that, I should’ve communicated better."
+family,low,high,I regret not being upfront with you about needing some time to myself.
+family,low,high,"I’ll do better by being more open next time, I’m sorry."
+family,low,high,I should’ve been honest and more direct — I’m really sorry.
+family,low,high,"Apologies for being evasive, I should’ve communicated my needs more clearly."
+family,low,high,I understand I acted selfishly and should’ve been more honest with you.
+family,low,high,"I should’ve communicated my need for space better, I’m sorry."
+family,low,high,I regret not telling you the truth — I’ll do better next time.
+family,low,high,"I wasn’t honest, and I apologize for that — I’ll make sure to do better."
+family,high,low,"I didn’t think it would affect you, but I’m really sorry for how I handled it."
+family,high,low,"I didn’t mean to upset you, I just needed some space."
+family,high,low,"I thought it would be fine, but I’m sorry for not being more open about needing some time."
+family,high,low,"I wasn’t sure how to explain it, but I’m sorry for not being upfront."
+family,high,low,"I didn’t mean to hurt anyone, but I’m sorry for taking more time than I needed."
+family,high,low,"I thought it wouldn’t be a problem, but I apologize for how I handled it."
+family,high,low,"I didn’t think I’d be gone for so long, but I’m sorry for not communicating better."
+family,high,low,"I wasn’t trying to cause issues, I just needed a break — I’m sorry."
+family,high,low,"I’m sorry for taking more time than expected, I just needed some space."
+family,high,low,"I didn’t think it would be a big deal, but I’m sorry for how it turned out."
+family,high,medium,"I should’ve communicated better, I’m sorry for not explaining my need for space."
+family,high,medium,"I’m sorry for being unclear about needing some time alone, I should’ve been more direct."
+family,high,medium,"I didn’t mean to cause any trouble, I’m sorry for taking more time than I intended."
+family,high,medium,"I apologize for not being more upfront about needing a break, I should’ve explained it."
+family,high,medium,"I’m sorry for taking more time than I expected, I should’ve communicated that."
+family,high,medium,"I apologize for not being clear about needing some space, I’ll do better next time."
+family,high,medium,"I should’ve said something earlier, I’m sorry for not being more open."
+family,high,medium,"I’m sorry for not explaining myself properly, I just needed some time alone."
+family,high,medium,"I realize I should’ve communicated my need for space better, I’m sorry."
+family,high,medium,"I’m sorry for not telling you I needed time alone, I’ll make sure to communicate better."
+family,high,high,I’m really sorry for not being more upfront about needing some time for myself.
+family,high,high,"I should’ve communicated my need for space better, I apologize for not being more clear."
+family,high,high,"I realize now I should’ve explained why I needed time alone, I’m really sorry."
+family,high,high,"I apologize for not being honest about needing some space, I’ll work on doing better."
+family,high,high,"I should’ve been more transparent about needing some time to recharge, I’m sorry."
+family,high,high,"I’m sorry for not explaining myself better, I should’ve communicated my need for space."
+family,high,high,"I realize I should’ve been clearer about my need for time alone, I’m really sorry."
+family,high,high,"I apologize for not being more honest about taking time for myself, I’ll do better."
+family,high,high,"I’m sorry for not communicating my need for space clearly, I’ll be more open next time."
+family,high,high,"I should’ve been more direct about needing some time to myself, I’m really sorry."
+social,low,low,"I'm sorry, I really just needed some time alone and didn’t think it would matter."
+social,low,low,"I should have been more honest about needing a break, I apologize."
+social,low,low,"I didn’t think it would be an issue, but I’m sorry for stepping away like that."
+social,low,low,"I realize I should’ve said something, I apologize for just disappearing."
+social,low,low,I’m sorry for taking off without saying anything. I needed some space.
+social,low,low,"I didn’t explain it well, but I was feeling off and needed a break. I’m sorry."
+social,low,low,I know I should’ve been more open with you about needing some time for myself. I’m sorry.
+social,low,low,"I thought it wouldn’t matter, but I realize now that I should’ve communicated better. My bad."
+social,low,low,"I didn’t think it would be a big deal, but I should’ve been more considerate. Sorry for vanishing."
+social,low,low,I’m sorry for not explaining myself. I just needed some time alone and didn’t know how to say it.
+social,low,medium,I’m sorry I didn’t communicate better. I just needed a bit of time to myself.
+social,low,medium,I didn’t mean to make you feel ignored. I should’ve been clearer about needing a break.
+social,low,medium,I apologize for not saying something sooner. I just needed some time to recharge.
+social,low,medium,I should’ve let you know what was going on. I’m sorry for pulling away like that.
+social,low,medium,I didn’t mean to upset anyone. I should’ve communicated that I needed some time alone.
+social,low,medium,I apologize for not being more upfront about needing a break. I didn’t think it would be a big deal.
+social,low,medium,I should’ve told you earlier that I needed some space. I’m sorry for being distant.
+social,low,medium,"I didn’t explain myself properly, and I’m sorry for that. I just needed some time to myself."
+social,low,medium,I realize I should’ve said something instead of just disappearing. I’m sorry for the confusion.
+social,low,medium,"I wasn’t clear about my need for space, and I apologize for that."
+social,low,high,I’m really sorry for not being honest about needing some time alone. I should’ve communicated better.
+social,low,high,"I didn’t mean to hurt anyone. I just needed some space, and I apologize for not explaining it."
+social,low,high,I realize I should’ve said something about needing a break. I’m really sorry for not communicating.
+social,low,high,I shouldn’t have disappeared without saying anything. I’m sorry for the lack of communication.
+social,low,high,I’m really sorry for not letting you know sooner. I just needed time for myself.
+social,low,high,I should’ve been more upfront with you. I’m sorry for not being clear about needing some time alone.
+social,low,high,"I didn’t think it would be an issue, but I realize now I should’ve explained myself. Sorry for that."
+social,low,high,"I should’ve communicated better, and I’m really sorry for pulling away without saying anything."
+social,low,high,"I apologize for not being more honest. I needed some space, and I should’ve said so."
+social,low,high,I should’ve been clearer with you. I’m sorry for not explaining why I needed some time to myself.
+social,medium,low,"I’m sorry for not saying anything. I wasn’t feeling it, but I should’ve communicated better."
+social,medium,low,I didn’t mean to upset you. I should’ve said something about needing a break.
+social,medium,low,I’m sorry for not explaining myself. I just didn’t feel up to it.
+social,medium,low,"I didn’t think it would matter, but I should’ve been more considerate. Sorry for pulling away."
+social,medium,low,"I didn’t mean to leave things hanging. I was just feeling off, and I should’ve communicated that."
+social,medium,low,I’m sorry for being distant. I should’ve said I needed a break instead of just stepping away.
+social,medium,low,"I didn’t think you’d mind, but I should’ve said something. I’m sorry for not explaining myself."
+social,medium,low,I’m sorry I wasn’t clear about what was going on. I just needed some space.
+social,medium,low,I should’ve been more upfront about needing time to myself. I’m sorry for not saying anything.
+social,medium,low,"I didn’t think it would affect anything, but I realize now I should’ve communicated better. My apologies."
+social,medium,medium,I’m really sorry for not telling you sooner that I needed some space. I should’ve been clearer.
+social,medium,medium,I apologize for being distant. I should’ve communicated that I needed some time to myself.
+social,medium,medium,I didn’t mean to leave you hanging. I should’ve said something about needing a break.
+social,medium,medium,I’m sorry for not being more upfront about needing some time alone. I should’ve communicated that.
+social,medium,medium,I realize I should’ve said something about not feeling up to it. I’m sorry for being distant.
+social,medium,medium,"I’m really sorry for not explaining myself. I just needed a break, and I should’ve said so."
+social,medium,medium,I should’ve been more clear about my need for space. I’m sorry for not being open.
+social,medium,medium,I didn’t mean to upset you. I should’ve communicated that I wasn’t feeling up to it.
+social,medium,medium,"I apologize for pulling away. I needed some time alone, and I should’ve said something."
+social,medium,medium,"I’m sorry for not being more upfront. I just needed a little space, and I should’ve told you."
+social,medium,high,I’m really sorry for not being more transparent about needing some space. I should’ve communicated it better.
+social,medium,high,I shouldn’t have pulled away without explaining myself. I’m sorry for not being honest about needing a break.
+social,medium,high,I apologize for not being upfront about needing some time alone. I should’ve said something sooner.
+social,medium,high,I’m really sorry for not explaining myself. I should’ve been more honest about needing a break.
+social,medium,high,I didn’t want to cause any issues. I’m sorry for not communicating that I needed some time alone.
+social,medium,high,I apologize for being distant. I needed time to myself and should’ve said so.
+social,medium,high,I realize I should’ve been more open with you. I’m sorry for not explaining why I needed a break.
+social,medium,high,I’m really sorry for disappearing without a word. I should’ve communicated better about needing some time to recharge.
+social,medium,high,I didn’t mean to leave you in the dark. I needed some space and should’ve explained that.
+social,medium,high,"I apologize for not saying anything earlier. I just needed some time alone, and I should’ve communicated that."
+social,high,low,I’m sorry for not showing up or saying anything. I just didn’t feel like it.
+social,high,low,I wasn’t in the right mood and didn’t think it would matter if I just disappeared.
+social,high,low,"I didn’t think it would affect anyone, but I ended up needing time to myself. Sorry for not saying anything."
+social,high,low,"I thought I could handle it, but I just bailed without a word. Sorry about that."
+social,high,low,"I wasn’t in the best mood, and I didn’t think it would matter if I left without explaining."
+social,high,low,I just didn’t feel like being around. I should’ve said something. My apologies.
+social,high,low,"I wasn’t feeling it, and I just left without telling anyone. I’m sorry for doing that."
+social,high,low,"I didn’t think it would be a problem, but I ended up needing time alone. Sorry for disappearing."
+social,high,low,"I didn’t want to make a scene, so I just left without saying anything. I’m sorry."
+social,high,low,"I thought I could avoid it, but I’m sorry for not explaining why I left."
+social,high,medium,I’m really sorry for just leaving without saying anything. I wasn’t feeling well and should’ve communicated that.
+social,high,medium,"I didn’t mean to leave things awkward. I just wasn’t in the right headspace, and I should’ve said so."
+social,high,medium,I apologize for disappearing. I was feeling overwhelmed and should’ve communicated that.
+social,high,medium,I’m really sorry for not explaining myself. I was feeling mentally drained and should’ve communicated that.
+social,high,medium,"I apologize for pulling away. I just needed time to clear my head, but I should’ve said something."
+social,high,medium,"I didn’t mean to upset anyone. I just needed a moment to reset, and I should’ve told you."
+social,high,medium,I’m sorry for leaving without any explanation. I just needed to process things and should’ve communicated better.
+social,high,medium,"I realize I should’ve been more transparent. I wasn’t feeling my best, and I should’ve said so."
+social,high,medium,I apologize for not giving you a heads-up. I needed to step away to recharge.
+social,high,medium,I’m really sorry for leaving abruptly. I just needed to reset and should’ve communicated that.
+social,high,high,I’m really sorry for just disappearing. I was feeling mentally drained and should’ve communicated that to you.
+social,high,high,"I didn’t want to cause any issues, but I just needed some time alone. I apologize for not explaining that."
+social,high,high,"I’m sorry for leaving without saying anything. I wasn’t in the right headspace, and I should’ve told you."
+social,high,high,I realize I should’ve been more open. I needed some space to reset and should’ve communicated that.
+social,high,high,I apologize for not explaining myself. I was overwhelmed and should’ve let you know.
+social,high,high,"I’m really sorry for pulling away. I wasn’t feeling great mentally, and I should’ve said something."
+social,high,high,"I didn’t mean to leave you hanging. I needed time to clear my head, and I should’ve communicated that."
+social,high,high,I apologize for not being upfront. I just needed a break to process things and should’ve let you know.
+social,high,high,I’m really sorry for disappearing without notice. I should’ve communicated that I needed some time for myself.
+social,high,high,I realize I should’ve been clearer. I just needed a moment alone and should’ve said so.
