@@ -9,7 +9,6 @@
 
 This isn't just a text generator; it's a sophisticated tool that leverages a fine-tuned language model to create context-aware, plausible responses and generates supporting evidence like fake WhatsApp screenshots and voice notes.
 
-**(Optional but recommended: Add a GIF demo here)**
 
 ---
 
